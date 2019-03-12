@@ -21,12 +21,15 @@ The following additional libraries have been used:
 
 
 ## Project Motivation<a name="motivation"></a>
-I really enjoyed imoplementing a webapp in python from scratch to fully understand how it works integrating Bootstrap, flask and Python.
+I really enjoyed imoplementing a webapp in python from scratch to fully understand how it works integrating Bootstrap, flask and Python. The app visualized the Top 10 world Economies Land Usage from 1990 to 2015.
 
 
 ## File Descriptions <a name="files"></a>
 The following Pythom files included in this project are:
-*
+* worldbank.py
+* requirements.txt
+* wrangling_scripts/wrangle_data.py
+* worldbankapp/routes.py
 
 ## Results <a name="results"></a>
 You can visualize the dashboard on [heroku]()
